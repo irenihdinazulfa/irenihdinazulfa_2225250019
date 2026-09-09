@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pertemuan 02 - Dasar Python
 - **Nama**: Iren Ihdina Zulfa
 - **NIM**: 2225250019
@@ -11,3 +12,7 @@ Buka terminal VS Code pada folder proyek, lalu jalankan perintah:
 
 ```bash
 python tugas/kalkulator_koordinat.py
+=======
+# irenihdinazulfa_2225250019
+Tugas Algoritma Pemograman
+>>>>>>> cb28c98c3a0c772aab2184d0d9d97786c03a28d3
